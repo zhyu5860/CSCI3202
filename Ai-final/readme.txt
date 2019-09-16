@@ -1,0 +1,1 @@
+simply run it in a python complier with all the txt file in the same directory
